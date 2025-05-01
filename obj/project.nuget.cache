@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2D4EpsdpwQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drhup\\source\\repos\\Noldus_LSL\\Noldus_LSL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drhup\\.nuget\\packages\\sharplsl\\0.0.10\\sharplsl.0.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

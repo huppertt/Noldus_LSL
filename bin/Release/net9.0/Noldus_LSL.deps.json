@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Noldus_LSL/1.0.0": {
+        "dependencies": {
+          "SharpLSL": "0.0.10"
+        },
+        "runtime": {
+          "Noldus_LSL.dll": {}
+        }
+      },
+      "SharpLSL/0.0.10": {
+        "runtime": {
+          "lib/net6.0/SharpLSL.dll": {
+            "assemblyVersion": "0.0.10.0",
+            "fileVersion": "0.0.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Noldus_LSL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpLSL/0.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8dQndXE8P351JvqoULSUnLBaaCWjfyyP29X4JKNMWFWo6qFxfw4H8oRNQlCt9v4NEZwJ0rldKqayc0XkinNnMw==",
+      "path": "sharplsl/0.0.10",
+      "hashPath": "sharplsl.0.0.10.nupkg.sha512"
+    }
+  }
+}
